@@ -3,9 +3,8 @@ import pygame
 from math import hypot
 
 
-# server_ip, server_port = '185.44.68.202', 30000
 server_ip, server_port = 'localhost', 10000
-my_name = 'Дура'
+my_name = 'Player_1'
 
 
 WIDTH_WINDOW, HEIGHT_WINDOW = 1000, 900
